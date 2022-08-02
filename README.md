@@ -2,6 +2,14 @@
 
 # iQbit
 
+This is a version of ntoporcov's work. I want to add on a filter section to the search section but I have very little knowledge when it comes to working with javascript and developing Web UI so I will be trying my best to make it happen.
+
+This is being made for my personal use but feel free to use this :)
+
+
+--------------------------------------------------------------------
+
+
 iQbit is an iOS styled WebUI theme for qBitTorrent clients.
 
 True story. While I was developing this, my wife asked me if qBitTorrent was like Limewire. The reason was clear, torrent clients haven't evolved in their last 20 years of popularity. iQbit is an attempt to bring torrenting to more modern design approaches. With that being said, this is not a data-heavy approach to torrenting (or at least not yet). The main focus of this projects are the following points:
