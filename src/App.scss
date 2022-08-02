@@ -204,7 +204,7 @@ ion-segment{
   background-color: var(--color-background-3);
   color:var(--color-text-primary);
 
-  .in-segment:not(:first-of-type)::before, {
+  .in-segment:not(:first-of-type)::before {
     background-color: var(--color-background-4);
     opacity: 1;
   }
